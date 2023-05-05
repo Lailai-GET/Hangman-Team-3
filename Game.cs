@@ -87,6 +87,7 @@
             }
             if (_failCount == 5)
             {
+                Console.WriteLine($"The correct word was: {_correctWord}");
                 Console.WriteLine("ur dead");
                 return;
             }
