@@ -9,7 +9,7 @@ namespace Hangman_Team_3
             var game = new Game();
 
             game.StartGame();
-            Console.Write("Heisann verden!");
+            Console.Write("Goodbye World!");
 
 
         }
